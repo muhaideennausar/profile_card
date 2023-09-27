@@ -26,7 +26,7 @@ Here are some key points about my solution:
 
 ## Preview
 
-You can view my solution to the "Profile Card Component" challenge by [**clicking here.**]()
+You can view my solution to the "Profile Card Component" challenge by [**clicking here.**](https://profile-card-eta-mocha.vercel.app/)
 
 ## Screenshot
 
